@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-get_ipython().system('pip install argparse')
+# this script uploads the dataset and convert 4D channel matrices into 2D vectors
+!pip install argparse
 import os
 import argparse
 import numpy as np
