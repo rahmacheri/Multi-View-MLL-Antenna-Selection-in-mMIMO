@@ -1,6 +1,4 @@
 
-
-import sys
 sys.path.append(r'C:\link\to\your\scripts')
 import os
 import sys
