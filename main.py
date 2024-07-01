@@ -1,13 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 import sys
 sys.path.append(r'C:\link\to\your\scripts')
-
-
 import os
 import sys
 import time
