@@ -1,5 +1,5 @@
 # Multi-View-MLL Antenna Selection in mMIMO
-Multi-view MLL: learning latent spaces for Multi-label classification
+
 We combined between two methods of MVL(Multi-View learning) ; a deep canonical
 correlation DCCA and auto-encoders AE. in which the canonical relationship of the
 compressed features and reconstruction errors of the auto-encoders are optimized
