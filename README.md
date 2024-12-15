@@ -4,7 +4,7 @@ We combined between two methods of MVL(Multi-View learning) ; a deep canonical
 correlation DCCA and auto-encoders AE. in which the canonical relationship of the
 compressed features and reconstruction errors of the auto-encoders are optimized
 simultaneously.
-# A Two loss functions are used:
+#  Two loss functions are used:
 the first one is the loss measuring the correlation between
 fm(hc) and ge(AS ), second is the loss at the output of the autoencoder. The total loss
 function is : T= L1+alpha*L2
