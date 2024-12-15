@@ -1,6 +1,6 @@
 # Multi-View-MLL Antenna Selection in mMIMO
 
-We combined between two methods of MVL(Multi-View learning) ; a deep canonical
+Two methods of MVL(Multi-View learning) were combined; a deep canonical
 correlation DCCA and auto-encoders AE. in which the canonical relationship of the
 compressed features and reconstruction errors of the auto-encoders are optimized
 simultaneously.
