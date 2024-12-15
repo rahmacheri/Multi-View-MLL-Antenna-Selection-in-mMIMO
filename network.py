@@ -203,7 +203,6 @@ class Network(object):
         loss = tf.trace(tf.matmul(C1, tf.transpose(C1))) + self.config.solver.lagrange_const * tf.trace(tf.matmul(C2, tf.transpose(C2)) + tf.matmul(C3, tf.transpose(C3)))
         return loss
 
-     # My blood, sweat and tears were also embedded into the emebedding.
     def output_loss(self, predictions, labels):
         """
         Parameters
